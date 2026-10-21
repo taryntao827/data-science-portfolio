@@ -13,7 +13,7 @@ Hello! I am a student passionate about data science and data analysis. I enjoy u
 **Research Question:** How is the distribution of immigration to Canada across different continents, and how has it changed over time?
 
 **Visualization & Findings:**
-![Immigration in 2013](你的图片链接.png) 
+![Immigration in 2013](https://github.com/taryntao827/data-science-project/raw/main/pie_chart_2013.png) 
 *As shown in the chart, Asia is the dominant source of immigration to Canada. In 2013, Asian immigrants accounted for 60.2% of the total, showing a significant upward trend compared to the historical average.*
 
 **Project Repository:** [data-science-project](https://github.com/taryntao827/data-science-project)
